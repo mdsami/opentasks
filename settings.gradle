@@ -1,1 +1,1 @@
-include ':opentasks'
+include ':mobile', ':wear'

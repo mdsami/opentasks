@@ -14,3 +14,14 @@ allprojects {
         maven { url "https://jitpack.io" }
     }
 }
+
+// Define versions in a single place
+ext {
+    version = '1.2.0'
+    appId = 'org.dmfs.tasks'
+
+    // Sdk and tools
+    targetSdkVersion = 22
+    compileSdkVersion = 23
+    buildToolsVersion = '24.0.1'
+}

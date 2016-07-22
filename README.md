@@ -6,7 +6,7 @@ This is a task app for Android.
 
 ## Requirements
 
-* Android SDK Level 8
+* Android SDK Level 9
 * [android-xml-magic 0.1.1](https://github.com/dmfs/android-xml-magic)
 * [Color Picker](https://github.com/dmfs/color-picker)
 * [Dashclock 2.0](http://code.google.com/p/dashclock/)
